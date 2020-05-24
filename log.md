@@ -28,3 +28,39 @@
 
 **Link to work:** https://github.com/Logan-Dutton1/Practice_Projects/blob/master/Pulling%20data%20out%20of%20large%20text 
 
+### Day 4: May 21, 2020 
+
+
+**Today's Progress**: Started a Tutorial Project using Optical Character Recognition. 
+
+**Thoughts:** I have to say, I am really really excited to build something involving OCR. 
+
+**Link to work:** N/A I am not sure if I can post tutorial projects in GitHub. Need to learn copyright policies for coding. 
+
+### Day 5: May 22, 2020 
+
+
+**Today's Progress**: Continued working on tutorial project from previous day, 
+
+**Thoughts:** I am having an issue getting Angular CLI to run on my computer. I am actively looking into the issue, but I am not sure exactly why this is happening. I might have to circular back to this project at a later date. 
+
+**Link to work:** N/A I am not sure if I can post tutorial projects in GitHub. Need to learn copyright policies for coding. 
+
+### Day 6: May 23, 2020 
+
+
+**Today's Progress**: I did not code today. I was not feeling well.
+
+**Thoughts:** N/A
+
+**Link to work:**  N/A
+
+### Day 7: May 24, 2020 
+
+
+**Today's Progress**: I worked on a Python Tutorial. I am about half way done 
+
+**Thoughts:** For quite a bit, I have been torn as to what type of tech career I want to pursue. I have narrowed it down to AI/ML/Data Science/FinTech. With that being said, it made sense to spend my coding time studying and building Python projects.
+
+**Link to work:** N/A
+
